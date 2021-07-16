@@ -1,0 +1,11 @@
+{
+  "name": "pruebas-npm",
+  "version": "1.0.0",
+  "description": "Proyecto de ejemplo del npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Esteban",
+  "license": "ISC"
+}
